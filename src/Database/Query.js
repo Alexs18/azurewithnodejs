@@ -1,0 +1,4 @@
+module.exports = {
+    AllMessage:'SELECT * FROM REGISTROMENSAJES',
+    CreateMessgae:'INSERT INTO REGISTROMENSAJES (MENSAJE) VALUES'
+}
